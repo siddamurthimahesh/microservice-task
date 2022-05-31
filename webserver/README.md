@@ -11,3 +11,8 @@ The available endpoints for this application are:-
 | `/` | GET | root will serve the landing page of the frontend application |
 | `/healthz` | GET | healthz will return the status of nginx service |
 
+## Quickstart
+
+```shell
+make image
+```
