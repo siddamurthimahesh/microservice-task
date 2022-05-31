@@ -1,3 +1,0 @@
-build:
-	mvn package
-
