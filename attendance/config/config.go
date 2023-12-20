@@ -14,7 +14,7 @@ type Configuration struct {
 	Salary        Salary        `yaml:"salary"`
 }
 
-// Elasticsearch is struct for elasticsearch configuration
+// Elasticsearch is struct for elasticsearch configuration ggggggggg
 type Elasticsearch struct {
 	Enabled  bool   `yaml:"enabled"`
 	Host     string `yaml:"host"`
